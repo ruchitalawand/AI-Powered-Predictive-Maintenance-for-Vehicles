@@ -1,0 +1,12 @@
+{
+  "engine_temp": 105,
+  "battery_voltage": 11.7,
+  "oil_pressure": 28,
+  "brake_wear": 48,
+  "engine_hours": 2200
+}
+
+Output:
+{
+  "part_failure": true
+}
